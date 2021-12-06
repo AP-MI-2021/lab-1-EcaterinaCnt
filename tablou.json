@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.tablou.Tablou", "id_entity": "1", "id_pictor": "1", "titlu": "g", "pret": 234.0, "an": 2000}, "2": {"py/object": "Domain.tablou.Tablou", "id_entity": "2", "id_pictor": "1", "titlu": "ggg", "pret": 456.0, "an": 2005}, "3": {"py/object": "Domain.tablou.Tablou", "id_entity": "3", "id_pictor": "2", "titlu": "ttt", "pret": 234.0, "an": 2000}}
